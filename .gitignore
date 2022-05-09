@@ -1,0 +1,7 @@
+.env
+.DS_Store
+bot.json
+Info.json
+index.js
+
+node_modules/
